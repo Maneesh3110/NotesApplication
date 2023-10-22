@@ -41,4 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Note:** The actual implementation details for data storage and retrieval, including Firebase setup and integration, are available in our [[GitHub repository](#link-to-your-repo)](https://github.com/Maneesh3110/NotesApplication)https://github.com/Maneesh3110/NotesApplication.
+**Note:** The actual implementation details for data storage and retrieval, including Firebase setup and integration, are available in our(https://github.com/Maneesh3110/NotesApplication)https://github.com/Maneesh3110/NotesApplication.
